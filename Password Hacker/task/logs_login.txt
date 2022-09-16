@@ -1,0 +1,2 @@
+{"login": "admin", "password": " "} {"result": "Wrong login!"}
+{"login": "Admin", "password": " "} {"result": "Wrong password!"}
